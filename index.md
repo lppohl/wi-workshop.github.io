@@ -13,9 +13,6 @@ In this workshop, we encourage interdisciplinary research through using theories
 
 *Location:* [Kassenhalle Weizenbaum Institut](https://www.weizenbaum-institut.de/).
 
-{% comment %}
-      {% include toc.html %}
-{% endcomment %}
 ------
 
 {% include template/credits.html %}
