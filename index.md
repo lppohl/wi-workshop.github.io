@@ -11,8 +11,7 @@ The emerging field of Responsible AI research has revealed socio-technical biase
 
 In this workshop, we encourage interdisciplinary research through using theories, concepts, and research methods from social sciences to improve the evaluation, analysis, and mitigation of socio-technical bias in language technologies. We also encourage research on problems that might arise from using NLP/LT as tools in social sciences and best practices for social scientists to safely use language technologies as tools in their research.
 
-*Location:* [Kassenhalle Weizenbaum Institut](https://www.weizenbaum-institut.de/).
-
 ------
 
-{% include template/credits.html %}
+*Location:* [Kassenhalle Weizenbaum Institut](https://www.weizenbaum-institut.de/).
+*Date:* March 2025
