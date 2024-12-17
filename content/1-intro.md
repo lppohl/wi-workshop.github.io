@@ -1,8 +1,11 @@
 ---
-title: Program
-nav: Program
+title: Workshop Contact
+nav: Contact
 ---
+### E-Mail of Organizers
 
-*The program will follow shortly*
+Dr. Fatma Elsafoury:
+fatma.elsafoury@fokus.fraunhofer.de
 
-{% include alert.html text=text color=secondary %}
+Jan Batzner:
+jan.batzner@weizenbaum-institut.de
