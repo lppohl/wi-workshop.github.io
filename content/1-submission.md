@@ -1,6 +1,6 @@
 ---
-title: Workshop Contact
-nav: Contact
+title: Submission
+nav: Submission
 
 ---
 
