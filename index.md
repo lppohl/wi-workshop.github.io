@@ -15,4 +15,4 @@ In this workshop, we encourage interdisciplinary research through using theories
 
 *Location:* [Kassenhalle Weizenbaum Institut](https://www.weizenbaum-institut.de/).
 
-*Date:* March 2025.
+*Date:* 3rd and 4th of April.
