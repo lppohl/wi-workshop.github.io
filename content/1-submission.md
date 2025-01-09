@@ -1,7 +1,6 @@
 ---
 title: Submission
 nav: Submission
-
 ---
 
 # Submission
