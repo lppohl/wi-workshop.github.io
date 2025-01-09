@@ -3,6 +3,10 @@ title: Submission
 nav: Submission
 ---
 
+**Submission Deadline is the 23.02.2025**
+
+-----
+
 We encourage participants to submit **research that applies** **theories, concepts, and** **research methods from economics or the social sciences to the evaluation, analysis, and mitigation of language models** in order **to address socio-technical biases in language technologies**. We are also calling for research on **problems that might arise from using language models as tools in social sciences** and **best practices for social scientists to responsibly use language technologies** as tools in their research.
 
 Submissions should fit into one (or both) of the following categories:
@@ -19,6 +23,8 @@ NLP as a tool in social science and its implications:
 - implications of using NLP tools for measurements.
 - validation and best practices.
 
-### Deadline of submission
+-----
+
+### Submit here
 
 [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSch5cK5zy5jxVq54oPO_ivTWXO1fUg1xMcs0XH34yRyyAuwaQ/viewform) 
