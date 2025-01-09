@@ -4,8 +4,8 @@ nav: Contact
 ---
 For further information, please contact the organizers
 
-Dr. Fatma Elsafoury:
+**Dr. Fatma Elsafoury:** \
 fatma.elsafoury@fokus.fraunhofer.de
 
-Jan Batzner:
+**Jan Batzner:** \
 jan.batzner@weizenbaum-institut.de
