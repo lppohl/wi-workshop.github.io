@@ -2,9 +2,6 @@
 title: Submission
 nav: Submission
 ---
-
-# Submission
-
 We encourage participants to submit **research that applies** **theories, concepts, and** **research methods from economics or the social sciences to the evaluation, analysis, and mitigation of language models** in order **to address socio-technical biases in language technologies**. We are also calling for research on **problems that might arise from using language models as tools in social sciences** and **best practices for social scientists to responsibly use language technologies** as tools in their research.
 
 Submissions should fit into one (or both) of the following categories:
