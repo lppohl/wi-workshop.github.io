@@ -26,4 +26,4 @@ This workshop is meant to provide the space for interdisciplinary exchange towar
 
 **Deadline for Abstract submission:** 23.02.2025
 
-**Location:** [Kassenhalle Weizenbaum Institut](https://www.weizenbaum-institut.de/) and hybrid
+**Location:** [Weizenbaum Institut](https://www.weizenbaum-institut.de/) and hybrid
