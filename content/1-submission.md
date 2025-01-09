@@ -25,6 +25,6 @@ NLP as a tool in social science and its implications:
 
 -----
 
-### Submit here
+### Submit here!
 
 [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSch5cK5zy5jxVq54oPO_ivTWXO1fUg1xMcs0XH34yRyyAuwaQ/viewform) 
