@@ -2,7 +2,7 @@
 title: Workshop Contact
 nav: Contact
 ---
-### E-Mail of Organizers
+For further information, please contact the organizers
 
 Dr. Fatma Elsafoury:
 fatma.elsafoury@fokus.fraunhofer.de
