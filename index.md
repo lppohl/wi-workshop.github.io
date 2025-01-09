@@ -4,7 +4,7 @@ layout: page
 ---
 
 # Social Science and Language Models 
-### Methods and theory to responsible research on and with Language technologies
+**Methods and theory to responsible research on and with Language technologies**
 
 {% include figure.html img="OIP.jpg" alt="intro image here" caption="Joseph Weizenbaum" width="75%" %}
 
