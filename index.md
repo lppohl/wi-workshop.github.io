@@ -22,6 +22,8 @@ Zeerak is a Chancellor’s Fellow (~Assistant Professor in the U.S.) in Responsi
 
 Link to website:  https://zeerak.org
 
+{% include figure.html img="picture_zeerak.jpg" alt="a picture of Zeerak Talat, sitting cacually" caption="Zeerak Talat" width="75%" %}
+
 ------
 
 ### Event Details
