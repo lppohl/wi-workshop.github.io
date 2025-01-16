@@ -17,12 +17,12 @@ This workshop is meant to provide the space for interdisciplinary exchange towar
 
 Zeerak Talat
 
+{% include figure.html img="picture_zeerak.jpg" alt="a picture of Zeerak Talat, sitting cacually" caption="" width="50%" %}
+
 Zeerak is a Chancellor’s Fellow (~Assistant Professor in the U.S.) in Responsible Machine Learning and Artificial Intelligence at the Centre for Technomoral Futures and the School of Informatics, where they are a member of the Institute for Language, Cognition and Computation, at the University of Edinburgh. Zeerak is one  of the 2024 visiting research fellows at HIIG (https://www.hiig.de), and have recently joined DAIR (Distributed AI Research Institute) as a faculty fellow. They work on the intersection between machine learning, science and technology studies, and media studies. Zeerak's research seeks to examine how machine learning systems interact with our societies and the downstream effects of introducing machine learning to our society.
 
 
 Link to website:  https://zeerak.org
-
-{% include figure.html img="picture_zeerak.jpg" alt="a picture of Zeerak Talat, sitting cacually" caption="Zeerak Talat" width="75%" %}
 
 ------
 
