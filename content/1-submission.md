@@ -11,17 +11,19 @@ We encourage participants to submit **research that applies** **theories, concep
 
 Submissions should fit into one (or both) of the following categories:
 
-Addressing Bias Measurement and Mitigation
+**Addressing Bias Measurement and Mitigation:**
 
 - approaches to evaluating and mitigating socio-technical bias
 - language model auditing, risk management, and alignment
 - personalisation and discrimination.
 
-NLP as a tool in social science and its implications:
+**NLP as a tool in social science and its implications:**
 
 - NLP as a research tool, potential risks, and/or potential solutions.
 - implications of using NLP tools for measurements.
 - validation and best practices.
+
+The maximum wordcount for the abstract is **500 words**.
 
 -----
 
