@@ -31,4 +31,4 @@ The maximum wordcount for the abstract is **500 words**.
 
 [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSch5cK5zy5jxVq54oPO_ivTWXO1fUg1xMcs0XH34yRyyAuwaQ/viewform) 
 
-**Registration without submission:** [Registration Form](https://limesurvey.weizenbaum-institut.de/index.php/776613?lang=en)
+**Registration to attend the workshop:** [Registration Form](https://limesurvey.weizenbaum-institut.de/index.php/776613?lang=en)
