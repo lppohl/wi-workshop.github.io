@@ -13,6 +13,18 @@ This hybrid workshop is meant to provide the space for interdisciplinary exchang
 
 ------
 
+### Event Details
+
+**Date:** 03/04.04.2025
+
+**Deadline for Abstract submission:** 23.02.2025
+
+**Location:** [Weizenbaum Institut](https://www.weizenbaum-institut.de/) and hybrid
+
+**Registration to attend the workshop** [Registration Form](https://limesurvey.weizenbaum-institut.de/index.php/776613?lang=en)
+
+------
+
 ### Speakers
 
 **Zeerak Talat**
@@ -34,14 +46,5 @@ In January 2023, she completed her Ph.D. with highest honors (summa cum laude) f
 
 She actively contributes to the academic community by co-organizing notable events, including the 8th Workshop on Online Abuse and Harms at NAACL 2024 and the Tutorial on Countering Hateful and Offensive Speech Online at EMNLP 2024. Additionally, she co-organized the 36th, 37th, and 39th editions of the Spanish Society for Natural Language Processing Conference (SEPLN). She is currently co-organizing the 9th Workshop on Online Abuse and Harms at ACL 2025
 
-------
+Link to website:  [https://fmplaza.github.io](https://fmplaza.github.io) 
 
-### Event Details
-
-**Date:** 03/04.04.2025
-
-**Deadline for Abstract submission:** 23.02.2025
-
-**Location:** [Weizenbaum Institut](https://www.weizenbaum-institut.de/) and hybrid
-
-**Registration without submission:** [Registration Form](https://limesurvey.weizenbaum-institut.de/index.php/776613?lang=en)
