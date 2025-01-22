@@ -7,4 +7,4 @@ nav: Timeline
 |---|---|
 | 23.02  | Abstract submission deadline |
 | 10.03 | Review on the abstract |
-| 03./04.04 | Workshop |
+| 3./4.04 | Workshop |
