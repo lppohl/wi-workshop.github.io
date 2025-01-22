@@ -13,7 +13,7 @@ This hybrid workshop is meant to provide the space for interdisciplinary exchang
 
 ------
 
-### Speaker
+### Speakers
 
 **Zeerak Talat**
 
@@ -22,14 +22,15 @@ This hybrid workshop is meant to provide the space for interdisciplinary exchang
 Zeerak is a Chancellor’s Fellow (~Assistant Professor in the U.S.) in Responsible Machine Learning and Artificial Intelligence at the Centre for Technomoral Futures and the School of Informatics, where they are a member of the Institute for Language, Cognition and Computation, at the University of Edinburgh. Zeerak is one  of the 2024 visiting research fellows at [HIIG](https://www.hiig.de), and have recently joined [DAIR](https://www.dair-institute.org/) (Distributed AI Research Institute) as a faculty fellow. They work on the intersection between machine learning, science and technology studies, and media studies. Zeerak's research seeks to examine how machine learning systems interact with our societies and the downstream effects of introducing machine learning to our society.
 
 
-Link to website:  [https://zeerak.org](https://zeerak.org) <br>
+Link to website:  [https://zeerak.org](https://zeerak.org) 
+<br>
 
 **Flor Miriam Plaza del Arco**
 
 {% include figure.html img="photo_flor_plaza.png" alt="a portrait picture of Flor Miriam Plaza del Arco" caption="" width="50%" %}
 
 Flor is a postdoctoral researcher at Bocconi University's MilaNLP lab in Milan, Italy. Her research lies at the intersection of language, computation, and society. She investigates how large language models represent and interpret human emotions, specifically exploring whether these models perpetuate biases, stereotypes, or harmful language across different cultural and social contexts. She fosters fairness and cultural sensitivity in AI systems and collaborates with social science experts to provide a comprehensive perspective on these challenges.
-In January 2023, she completed her Ph.D. with highest honors (summa cum laude) from the SINAI Lab at the University of Jaén (Spain). Her research advanced hate speech detection and emotion identification through the development of various corpora and lexicons, as well as by enhancing the performance of large language models, particularly for Spanish.
+In January 2023, she completed her Ph.D. with highest honors (summa cum laude) from the SINAI Lab at the University of Jaén (Spain). Her research advanced hate speech detection and emotion identification through the development of various corpora and lexicons, as well as by enhancing the performance of large language models, particularly for Spanish. <br>
 She actively contributes to the academic community by co-organizing notable events, including the 8th Workshop on Online Abuse and Harms at NAACL 2024 and the Tutorial on Countering Hateful and Offensive Speech Online at EMNLP 2024. Additionally, she co-organized the 36th, 37th, and 39th editions of the Spanish Society for Natural Language Processing Conference (SEPLN). She is currently co-organizing the 9th Workshop on Online Abuse and Harms at ACL 2025
 
 ------
