@@ -41,3 +41,5 @@ She actively contributes to the academic community by co-organizing notable even
 **Deadline for Abstract submission:** 23.02.2025
 
 **Location:** [Weizenbaum Institut](https://www.weizenbaum-institut.de/) and hybrid
+
+**Registration without submission:** [Registration Form](https://limesurvey.weizenbaum-institut.de/index.php/776613?lang=en)
