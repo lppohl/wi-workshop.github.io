@@ -15,7 +15,7 @@ This hybrid workshop is meant to provide the space for interdisciplinary exchang
 
 ### Event Details
 
-**Date:** 03/04.04.2025
+**Date:** 03./04.04.2025
 
 **Deadline for Abstract submission:** 23.02.2025
 
