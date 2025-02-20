@@ -3,7 +3,7 @@ title: Submission
 nav: Submission
 ---
 
-**Submission Deadline is the 23.02.2025**
+**Submission Deadline is the 02.03.2025**
 
 -----
 
