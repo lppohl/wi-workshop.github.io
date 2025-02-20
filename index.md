@@ -17,7 +17,7 @@ This hybrid workshop is meant to provide the space for interdisciplinary exchang
 
 **Date:** 03./04.04.2025
 
-**Deadline for Abstract submission:** 23.02.2025
+**Deadline for Abstract submission:** 02.03.2025
 
 **Location:** [Weizenbaum Institut](https://www.weizenbaum-institut.de/) and hybrid
 
