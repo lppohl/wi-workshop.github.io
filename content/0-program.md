@@ -2,9 +2,8 @@
 title: Program
 nav: Program
 ---
-
 ## Day I: Thursday (03/04/2025)
-
+---
 | Time         | Session                                                                 | Speaker          |
 |--------------------|-------------------------------------------------------------------------|-----------------|
 | 14:00         | Welcome                                                                 |  -   |
@@ -26,9 +25,10 @@ nav: Program
 | 18:00 | Shared Discussion                                                      |       -          |
 | *18:30*         | *Dinner (self-pay)*                                                      |       -          |
 
-## Day II: Friday (04/04/2025)
 
-| Time          | Session                                                                 | Chairs          |
+## Day II: Friday (04/04/2025)
+---
+| Time          | Session                                                                 | Speaker          |
 |---------------|-------------------------------------------------------------------------|-----------------|
 | *08:30* | *Arrival and Coffee*                                                      |  -          |
 | **09:00**         | **Session III: Anthropomorphism** |                 |
@@ -54,7 +54,7 @@ nav: Program
 | 16:00 | Networking and Poster Session                                          |     -            |
 | 17:00         | Closing and Final Remarks                                              | -  |
 
-
+---
 
 For each Session there are 6 Speakers presenting with 20min shared discussion
 
