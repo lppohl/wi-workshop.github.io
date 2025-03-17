@@ -26,7 +26,7 @@ nav: Program
 | 18:00 | Shared Discussion                                                      |       -          |
 | *18:30*         | *Dinner (self-pay)*                                                      |       -          |
 
-
+---
 ## Day II: Friday (04/04/2025)
 ---
 
