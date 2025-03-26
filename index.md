@@ -31,8 +31,8 @@ This hybrid workshop is meant to provide the space for interdisciplinary exchang
 
 {% include figure.html img="picture_zeerak.jpg" alt="a picture of Zeerak Talat, sitting cacually" caption="" width="50%" %}
 
-Zeerak is a Chancellor’s Fellow (~Assistant Professor in the U.S.) in Responsible Machine Learning and Artificial Intelligence at the Centre for Technomoral Futures and the School of Informatics, where they are a member of the Institute for Language, Cognition and Computation, at the University of Edinburgh. Zeerak is one  of the 2024 visiting research fellows at [HIIG](https://www.hiig.de), and have recently joined [DAIR](https://www.dair-institute.org/) (Distributed AI Research Institute) as a faculty fellow. They work on the intersection between machine learning, science and technology studies, and media studies. Zeerak's research seeks to examine how machine learning systems interact with our societies and the downstream effects of introducing machine learning to our society.
-
+Zeerak Talat is a Chancellor’s Fellow (~Assistant Professor) in Responsible Machine Learning and Artificial Intelligence at the Centre for Technomoral Futures and Institute for Language, Cognition, and Computing (ILCC) in the School of Informatics at the University of Edinburgh. Zeerak is also a Faculty Fellow at DAIR (Distributed AI Research Institute). They work on the intersection between machine learning, science and technology studies,
+and media studies. Zeerak’s research seeks to examine how machine learning systems interact with our societies and the downstream effects of introducing machine learning to our society viewed through the lens of content moderation. Zeerak is one of the founders and co-organisers of the Workshop on Online Abuse and Harms, and currently serves as the ACL Workshop Officer, the president of the Broad Interest Group on Equity in ACL (EquiCL); and sits on the university-wide Information Services Group Ethics Board at the University of Edinburgh.
 
 Link to website:  [https://zeerak.org](https://zeerak.org) 
 <br>
